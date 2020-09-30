@@ -37,7 +37,7 @@ void setup() {
 
 void loop(){
   updatePot();
-//  updateSonar();
+  updateSonar();
 }
 
 
